@@ -1,6 +1,6 @@
 # yatzi-refacto
 
-Yatzy Refacto is a fork of Emily Bache's Yatzy Refactoring Kata. This project implements the classic Yatzy game in Java, providing a practical exercise for refactoring and enhancing code quality.
+Ce projet est un fork du [Yatzy Refactoring Kata original](https://github.com/emilybache/Yatzy-Refactoring-Kata) de [Emily Bache](https://github.com/emilybache). 
 
 🎓 Structure du Projet
 
